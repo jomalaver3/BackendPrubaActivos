@@ -1,0 +1,6 @@
+@activosBackend_HostAddress = http://localhost:5196
+
+GET {{activosBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

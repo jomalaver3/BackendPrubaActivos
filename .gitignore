@@ -1,0 +1,26 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+*.obj
+*.dll
+*.exe
+*.log
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Configuración de usuario
+appsettings.json
+appsettings.Development.json
+
+# Archivos de depuración
+*.db
+*.db-shm
+*.db-wal
+
+# Carpetas específicas del proyecto
+api/obj/

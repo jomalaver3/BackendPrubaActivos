@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADE3700-D568-45EF-90D4-029E147AE227}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\logicanegocio\\services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADE3700-D568-45EF-90D4-029E147AE227}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CBF442-6C7E-417E-9A80-557071879499}|Interfaces\\Interfaces.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CBF442-6C7E-417E-9A80-557071879499}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87623BDA-D44A-4212-8D79-EB06063B3B2C}|Datos\\Datos.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\datos\\repositorys\\auths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87623BDA-D44A-4212-8D79-EB06063B3B2C}|Datos\\Datos.csproj|solutionrelative:datos\\repositorys\\auths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|solutionrelative:api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|c:\\users\\mio\\source\\repos\\prueba activos\\activos\\backend\\api\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455D3345-4825-4E0F-71F2-F676F2CDA8C9}|api\\activosBackend.csproj|solutionrelative:api\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:34:32.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthS.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\Datos\\Repositorys\\AuthS.cs",
+              "RelativeDocumentMoniker": "Datos\\Repositorys\\AuthS.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\Datos\\Repositorys\\AuthS.cs",
+              "RelativeToolTip": "Datos\\Repositorys\\AuthS.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:29:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:32:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\LogicaNegocio\\Services\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Services\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\LogicaNegocio\\Services\\DataSeeder.cs",
+              "RelativeToolTip": "LogicaNegocio\\Services\\DataSeeder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:32:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:20:52.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "api\\Controllers\\MovimientoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:20:45.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Mio\\source\\repos\\Prueba Activos\\Activos\\Backend\\api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:20:43.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

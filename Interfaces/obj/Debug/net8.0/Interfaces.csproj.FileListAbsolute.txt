@@ -1,0 +1,15 @@
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\bin\Debug\net8.0\Entidades.dll
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\Mio\source\repos\Prueba Activos\Activos\Backend\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
